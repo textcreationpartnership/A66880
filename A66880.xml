@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and impartial account of the present state of affairs in London-derry in Ireland being a relation of a great fight betwixt the Protestants and the French and Irish papists : with the number of persons slain and prisoners taken : in a letter from Captain Woosley, from on board the fleet with Major General Kirk, lying at anchor in the mouth of London-derry harbor.</title>
+            <author>Wolseley, William, 1640?-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66880</idno>
+            <idno type="STC">Wing W3316B</idno>
+            <idno type="STC">ESTC R26394</idno>
+            <idno type="EEBO-CITATION">09452219</idno>
+            <idno type="OCLC">ocm 09452219</idno>
+            <idno type="VID">43141</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66880)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43141)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1321:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and impartial account of the present state of affairs in London-derry in Ireland being a relation of a great fight betwixt the Protestants and the French and Irish papists : with the number of persons slain and prisoners taken : in a letter from Captain Woosley, from on board the fleet with Major General Kirk, lying at anchor in the mouth of London-derry harbor.</title>
+                  <author>Wolseley, William, 1640?-1697.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Downing,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed J.F., and entered according to order."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-04</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:43141:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <head>A True and Impartial Account of the Preſent State of Affairs in London-Derry in Ireland, BEING A Relation of a late Great Fight betwixt the <hi>Proteſtants</hi> and the <hi>French</hi> and <hi>Iriſh</hi> Papiſts: With the Number of Perſons Slain, and Priſoners taken.</head>
+            <head type="sub">In a Letter from Captain Wooſley, from on Board the Fleet with Major General KIRK, lying at Anchor in the Mouth of London-Derry Harbour.<date>
+                  <add>13. July. 1689.</add>
+               </date>
+            </head>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licenſed.</p>
+                        <closer>
+                           <signed>J.F,</signed>
+                        </closer>
+                        <postscript>
+                           <p>and Entered according to Order.</p>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>THere is juſt now gone off, one Captain <hi>Bowles,</hi> with an Expreſs from Major General <hi>Kirk</hi> to the Court, giving an Account of the poſture of Affairs here. Left you ſhould have an Im<g ref="char:EOLhyphen"/>perfect Relation, and (becauſe I know you to be curious in this particular) I have, by the ſame Hand, ſent you a ſhort Journal of our Adventures ſince we Arrived before this place.</p>
+            <p>We will not trouble you with the tediouſneſs of our Voyage, nor thro' what difficulties we paſt the Garriſons on the Sea-Coas;t, before we Wea<g ref="char:EOLhyphen"/>ther'd this point. As ſoon as we caſt Anchor in the Mouth of the <hi>Lough,</hi> a Council of War was call'd what to determine, finding the Bombs ſo ſtrong, and the River ſo narrow that it was im<g ref="char:EOLhyphen"/>poſſible for us to make any nearer Approach. That day we lay off, and at Night ſent a Diver into the Town, who Informing the Garriſon of our Arrival, was to ſet up a Signal on the Church-Steeple, to give us an account of the State of the Garriſon, which the next day we accordingly Diſcover'd with our Proſpective-Glaſs to be in a good Pos;ture. At Night our Meſſenger ſwims back with the s;ame ſucceſs he went, altho' the River was ſo narrow in ſome places, that he was many times within Piſtol s;hot of the Banks, which were well-lin'd all along with Canon and Small-ſhot. We expected they had deſir'd our Relief into the Town, and that they had put us upon ſome Ex<g ref="char:EOLhyphen"/>pedition to attempt our Landing, when on the contrary, the Governour ſent us word, that they had no need of our Succours, the Gariſon being 13000 able yet to Defend themſelves, and had Proviſion enough for Two Months; and deſir'd, that if the Major General had not poſitive Com<g ref="char:EOLhyphen"/>mands from the King to come in, that he might run no hazzard to get a ſhore, but rather keep out beyond the reach of the Enemies Canon, till being reinforc'd by the Regiments coming to his Aſſiſtance, he might make a more Proſperous At<g ref="char:EOLhyphen"/>tempt by Land, where there were 10000 <hi>Scotch</hi> ready to joyn with us, and the Garriſon of <hi>Lon<g ref="char:EOLhyphen"/>don-Derry</hi> to Sally out if there ſhould be any Oppoſition of the Enemy betwixt us.</p>
+            <p>This ſame Meſſenger brought us an Account of a ſmall Salley from the Garriſon ſome Nights before, in which they had taken a great many Horſes, an Hundred of which they Kill'd and Barrelled up, in cas;e, after Two Months time, the Garriſon ſhould be put to any Extremities for want of Proviſion. This Inſpir'd the Enemy with the hopes they would ſoon Surrender; and King <hi>James</hi> himſelf gave it out in <hi>Dublin,</hi> that the Be<g ref="char:EOLhyphen"/>ſieged had lived on Horſe-Fleſh a Fortnight, and that it was impoſſible but that they muſt in a few days Surrender. The Beſiegers thereupon make their Approaches nearer the Town; but the Governour, Collonel <hi>Walker</hi> (which he had a a long time before deſign'd) having made himſelf Maſter of the <hi>Wind-Mill-Hill,</hi> put a ſtop to their Carreer.</p>
+            <p>This Important Place is within three quarters of a Mile of the Town, where the Governour with a conſiderable Army Intrenched himſelf, and within four Nights made a ſharp and vigorous Sally upon the Enemy, in which (they s;ay) were kill'd ſome hundreds of the <hi>French</hi> and <hi>Iriſh;</hi> Colonel <hi>O Connors</hi> whole Regiment being cut off to 15 Men, and <hi>Frogmorton</hi> the Lieute<g ref="char:EOLhyphen"/>nant-Colonel.</p>
+            <p>Our Diver is again ſent aſhore, who returns the next Night with the ſame proſperous Ac<g ref="char:EOLhyphen"/>count of the good State of the Garriſon; That there was yet no want of Men, Ammunition, or Proviſion, only of Arms. The adjacent <hi>Scotch</hi> (who were diſarmed by the <hi>Iriſh,</hi> having had a great many out of the Garriſon, beſides Eighteen thouſand lately ſent out of <hi>Scotland,</hi> to be diſtri<g ref="char:EOLhyphen"/>buted amongſt the <hi>Proteſtants.</hi> Major General <hi>Kirk</hi> upon this made an Aſſay to Land Ten thou<g ref="char:EOLhyphen"/>ſand Arms; but finding ſome Difficulty in the Attempt, and not willing to loſe ſo Valuable a Treaſure, took them again on Board, where he might more ſafely diſtribute them upon his Landing.</p>
+            <p>The Animoſities between the <hi>French</hi> and the <hi>Iriſh</hi> encreaſed daily: The <hi>Iriſh</hi> are jealous of the <hi>French,</hi> and the <hi>French</hi> of the <hi>King,</hi> whom they upbraid with Hunting and Feaſting inſtead of Marſhalling and Fighting; Upon which ſome <hi>French-Officers</hi> have deſired to be Recall'd, and it is believed, when thoſe expected Forces ar<g ref="char:EOLhyphen"/>rive to a Number ſufficient to Land, the very Diſcontented <hi>Iriſh</hi> will fligh to our Aſſiſtance, as chooſing rather to be Subjects to <hi>England,</hi> than Slaves to <hi>France.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. Downing,</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
